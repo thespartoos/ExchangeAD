@@ -29,17 +29,17 @@ Tras importar el módulo, sera posible ejecutar las funciones existentes:
 - AD_Requeriments
 - ExchangeAD
 
-![[Menu.png]]
+<img src="images/Menu.png">
 
 ### Requeriments (función)
 
 Con esta función al principio puedes cambiar el nombre del equipo. En caso de que no quieras hacerlo, escribes la tecla "N". **Al cambiarse el nombre se reiniciará el equipo**
 
-![[DC-Name.png]]
+<img src="images/DC-Name.png">
 
 :warning Después de eso tendrás que instalar **`sin reinciar`,  (Net Framework 4.8, Visual C++, API)**
 
-![[Net-Framwork.png]]
+<img src="images/Net-Framwork.png">
 
 :warning: Recomiendo que cuando vayan a descargar las dependencias y copien el enlace que desactiven para que les deje descargar tranquilamente.
 
