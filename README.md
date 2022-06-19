@@ -49,7 +49,7 @@ Con esta función al principio puedes cambiar el nombre del equipo. En caso de q
 
 Ahora pasamos con la siguiente función que con la cual vamos a crear un dominio en el Windows Server e instalaremos todos lo roles necesarios.
 
-![[AD_installation.png]]
+<img src="images/AD_installation.png">
 
 Por último el equipo ha de ser reiniciado.
 
@@ -61,24 +61,24 @@ La última función consiste en instalar unas últimas dependencias y el Exchang
 
 Primero debemos de descargar y montar la ISO de Exchange Server
 
-![[Iso Exchange 2.png]]
+<img src="images/Iso Exchange 2.png">
 
 Comienza la preparación de la instalación de Microsoft Exchange
 
-![[Exchange Preparing.png]]
+<img src="images/Exchange Preparing.png">
 
 Cuando termine el proceso de las instalaciones previas comenzamos con la instalación de Exchange Server. En el primer paso le daremos a que nos busque actualizaciones online y le damos a continuar
 
-![[Exchange 1.png]]
+<img src="images/Exchange 1.png">
 
 El siguiente paso es utiliza la opcion recomendada
 
-![[Exchange 2.png]]
+<img src="images/Exchange 2.png">
 
 Ahora vamos instalar el rol (Buzón) de Exchange, asi que lo seleccionamos y le damos a continuar.
 
-![[Exchange 3.png]]
+<img src="images/Exchange 3.png">
 
 Por último la configuración de protección de malware la dejo en "No" y le doy a siguiente y por último le daremos a instalar.
 
-![[Exchange 4.png]]
+<img src="images/Exchange 4.png">
