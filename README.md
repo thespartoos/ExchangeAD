@@ -43,7 +43,7 @@ Con esta función al principio puedes cambiar el nombre del equipo. En caso de q
 
 :warning: Recomiendo que cuando vayan a descargar las dependencias y copien el enlace que desactiven para que les deje descargar tranquilamente.
 
-![[internet.png]]
+<img src="images/internet.png"
 
 ### AD_Requeriments (función)
 
