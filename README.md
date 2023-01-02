@@ -37,7 +37,7 @@ Con esta función al principio puedes cambiar el nombre del equipo. En caso de q
 
 <img src="images/DC-Name.png">
 
-:warning Después de eso tendrás que instalar **`sin reinciar`,  (Net Framework 4.8, Visual C++, API)**
+:warning: Después de eso tendrás que instalar **`sin reinciar`,  (Net Framework 4.8, Visual C++, API)**
 
 <img src="images/Net-Framwork.png">
 
